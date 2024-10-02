@@ -4,8 +4,6 @@
 
 - I’m currently learning **DSA and Web Development**
 
-- How to reach me **triguntamragouri@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triguntamragouri@gmail.com)
