@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js)](https://github.com/TrigunGurumurti)
-
+<br>
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
