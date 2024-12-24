@@ -14,18 +14,17 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js)](https://github.com/TrigunGurumurti)
 <br>
 
-<h2 align="center">Leetcode Info<h2>  
+<h2 align="center">Leetcode Info</h2> 
 <p align="center">
   <a href="https://leetcode.com/Trigun_2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 days Badge" height="200" width="200" /></a>
 </p>
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Trigun_2005?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-<br/>
+<br>
 
 
  <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=TrigunGurumurti&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=TrigunGurumurti&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
