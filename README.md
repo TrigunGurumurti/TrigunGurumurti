@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js)](https://github.com/TrigunGurumurti)
 <br>
 
-<h2 align="center">Leetcode Info</h2> 
+<h2 align="center">LeetCode Info</h2> 
 <p align="center">
   <a href="https://leetcode.com/Trigun_2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 days Badge" height="200" width="200" /></a>
 </p>
