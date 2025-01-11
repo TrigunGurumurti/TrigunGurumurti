@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trigun Gurumurti</h1>
 <h3 align="center">Student at PES University | B.Tech in CSE</h3>
 <img align="right" alt="Coding" width="280" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trigungurumurti&label=Profile%20views&color=0e75b6&style=flat" alt="trigungurumurti" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -26,7 +26,6 @@
 
  <h2 align="center">Current Stats</h2>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=TrigunGurumurti&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TrigunGurumurti&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrigunGurumurti&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trigungurumurti&show_icons=true&layout=compact&locale=en&theme=dracula" alt="trigungurumurti" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trigungurumurti&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="trigungurumurti" /></p>
 </div>
