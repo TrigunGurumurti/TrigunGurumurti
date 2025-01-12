@@ -3,6 +3,8 @@
 <img align="right" alt="Coding" width="280" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trigungurumurti&label=Profile%20views&color=0e75b6&style=flat" alt="trigungurumurti" /> </p>
 
+- 💻 Proficient in **DataStructures and Algorithms,JavaScript, Bootstrap(Framework) and React.js.** 
+
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triguntamragouri@gmail.com)
@@ -11,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,react)](https://github.com/TrigunGurumurti)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,react,python)](https://github.com/TrigunGurumurti)
 <br>
 
 <h2 align="center">LeetCode Info</h2> 
