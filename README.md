@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js)](https://github.com/TrigunGurumurti)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,react)](https://github.com/TrigunGurumurti)
 <br>
 
 <h2 align="center">LeetCode Info</h2> 
@@ -26,6 +26,8 @@
 
  <h2 align="center">Current Stats</h2>
 <div align=center>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trigungurumurti&show_icons=true&layout=compact&locale=en&theme=dracula" alt="trigungurumurti" /></p>
+  <p><img align="left" width="510px" src="https://github-readme-stats.vercel.app/api/top-langs?username=trigungurumurti&show_icons=true&layout=compact&locale=en&theme=dracula" alt="trigungurumurti" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trigungurumurti&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="trigungurumurti" /></p>
 </div>
+
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
