@@ -28,8 +28,8 @@
 
  <h2 align="center">Current Stats</h2>
 <div align=center>
-  <p><img align="left" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=trigungurumurti&show_icons=true&layout=compact&locale=en&theme=dracula" alt="trigungurumurti" /></p>
-  <p>&nbsp;<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=trigungurumurti&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="trigungurumurti" /></p>
+  <p><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trigungurumurti&show_icons=true&layout=compact&locale=en&theme=dracula" alt="trigungurumurti" /></p><br><br>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trigungurumurti&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="trigungurumurti" /></p>
 </div>
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
